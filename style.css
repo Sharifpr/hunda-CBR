@@ -1,0 +1,14 @@
+/* Customize css stylesheet */
+
+.bg-background{
+    background-color: #264653;
+}
+.text-color{
+    color: #E0E0E0;
+}
+.spen-text-color{
+    color: #E76F51;
+}
+.img-grayscle{
+    filter: grayscale(100%);
+}
